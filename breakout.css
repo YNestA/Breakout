@@ -1,0 +1,6 @@
+#breakout{
+    display: block;
+    margin: 40px auto;
+    background-color: aliceblue;
+    border: 3px solid firebrick;
+}
